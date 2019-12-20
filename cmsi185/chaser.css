@@ -1,0 +1,36 @@
+canvas {
+	border: 1px solid black;
+}
+
+h1 {
+	font: bold 50px Courier New;
+}
+
+p {
+	font: italic 40px Courier New;
+}
+
+progress {
+	display: inline-block;
+	position: absolute;
+	width: 300px;
+	background: #eee;
+	box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+#game {
+	display: inline;
+}
+
+#title {
+	display: inline-block;
+	position: absolute;
+	margin-left: 50px;
+}
+
+#score {
+	display: inline-block;
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 50px;
+}

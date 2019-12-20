@@ -1,0 +1,110 @@
+<!doctype html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>recipes</title>
+  <script src="https://kit.fontawesome.com/dfbaa8ca0a.js" crossorigin="anonymous"></script>
+  <script src="onepagescroll.js"></script>
+  <link rel="stylesheet" href="onepagescroll.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <nav>
+    <ul class="menuList">
+      <li>home</li>
+      <li>find</li>
+      <li>plan</li>
+    </ul>
+  </nav>
+
+  <div class="mainPages">
+    <section id="homePg">
+      <div id="homeLogoContainer">
+        <header>RECIPES</header>
+      </div>
+    </section>
+
+    <section id="findPg">
+      <div class="logoContainer">
+        <header>
+          <span class="logoTxt">RECIPES
+            <span class="pageTitle">find</span>
+          </span>
+        </header>
+      </div>
+      <div id="searchFormContainer">
+        <form class="searchForm">
+          <fieldset>
+            <input type="text" id="searchTerm" autocomplete="off" placeholder="search..." />
+            <button type="submit" id="searchButton" disabled>
+              <i class="fas fa-search fa-2x"></i>
+            </button>
+          </fieldset>
+        </form>
+        <div class="boxContainer" id="searchResultContainer">
+          <h1>results</h1>
+          <ul class="searchResultList"></ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="planPg">
+      <div class="logoContainer">
+        <header>
+          <span class="logoTxt">RECIPES
+            <span class="pageTitle">plan</span>
+          </span>
+        </header>
+      </div>
+      <table id="mealPlanTable">
+        <tr id="dayLabels">
+          <th>sunday</th>
+          <th>monday</th>
+          <th>tuesday</th>
+          <th>wednesday</th>
+          <th>thursday</th>
+          <th>friday</th>
+          <th>saturday</th>
+        </tr>
+        <tr id="dayMeals"></tr>
+      </table>
+      <h1 class="boxContainer" id="diceLabel">click the dice to generate a meal plan</h1>
+      <div id="diceContainer">
+        <form class="randomForm">
+          <fieldset>
+            <button type="submit" class="generalButton" id="randomButton">
+              <i class="fas fa-dice fa-7x"></i>
+            </button>
+          </fieldset>
+        </form>
+      </div>
+    </section>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+
+  <script src="src/api-real.js"></script>
+  <script src="src/search.js"></script>
+  <script src="src/plan.js"></script>
+
+  <script>
+    onepagescroll("div.mainPages")
+    window.SpoonacularSearchHandler.init()
+    window.SpoonacularPlanHandler.init()
+  </script>
+</body>
+
+</html>

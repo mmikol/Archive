@@ -1,0 +1,20 @@
+<div id="searchFormContainer">
+  <form class="searchForm">
+    <fieldset>
+      <input type="text" id="searchTerm" autocomplete="off" placeholder="search..." />
+      <button type="submit" id="searchButton" disabled>search</button>
+    </fieldset>
+  </form>
+  <div class="boxContainer" id="searchResultContainer">
+    <ul class="searchResultList"></ul>
+    <button type="button" class="generalButton" id="nextOffsetButton">
+      <p id="nextButton" class="buttonLabel">previous</p>
+    </button>
+    <button type="button" class="generalButton" id="prevOffsetButton">
+      <i class="fas fa-arrow-right"></i>
+      <p id="nextButton" class="buttonLabel">next</p>
+    </button>
+  </div>
+</div>
+
+<script src="../src/search.js"></script>

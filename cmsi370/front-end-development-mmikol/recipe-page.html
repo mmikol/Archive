@@ -1,0 +1,111 @@
+<!doctype html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>recipes</title>
+  <script src="https://kit.fontawesome.com/dfbaa8ca0a.js" crossorigin="anonymous"></script>
+  <script src="onepagescroll.js"></script>
+  <link rel="stylesheet" href="onepagescroll.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <nav>
+    <ul class="menuList" id="recipePageMenu">
+      <li>general</li>
+      <li>ingredients</li>
+      <li>steps</li>
+      <li>nutrition</li>
+    </ul>
+  </nav>
+
+  <div class="recipePages">
+    <section id="generalPg">
+      <div class="logoContainer">
+        <header>
+          <span class="logoTxt">RECIPES
+            <span class="pageTitle">general</span>
+          </span>
+        </header>
+      </div>
+      <figure>
+        <figcaption class="recipeTitle"></figcaption>
+        <img class="recipeImage" />
+      </figure>
+    </section>
+
+    <section id="ingredientsPg">
+      <div class="logoContainer">
+        <header>
+          <span class="logoTxt">RECIPES
+            <span class="pageTitle">ingredients</span>
+          </span>
+        </header>
+      </div>
+      <div class="boxContainer" id="ingredientContainer">
+        <h1>ingredients</h1>
+        <ul id="ingredientList"></ul>
+      </div>
+    </section>
+
+    <section id="stepsPg">
+      <div class="logoContainer">
+        <header>
+          <span class="logoTxt">RECIPES
+            <span class="pageTitle">steps</span>
+          </span>
+        </header>
+      </div>
+
+      <div class="boxContainer" id="stepsContainer">
+        <h1>steps</h1>
+        <p id="stepText"></p>
+        <button type="button" class="generalButton" id="prevStepButton">
+          <i class="fas fa-arrow-left"></i>
+          <p id="prevButton" class="buttonLabel">previous step</p>
+        </button>
+        <button type="button" class="generalButton" id="nextStepButton">
+          <i class="fas fa-arrow-right"></i>
+          <p id="nextButton" class="buttonLabel">next step</p>
+        </button>
+      </div>
+    </section>
+
+    <section id="nutritionPg">
+      <div class="logoContainer">
+        <header>
+          <span class="logoTxt">RECIPES
+            <span class="pageTitle">nutrition</span>
+          </span>
+        </header>
+      </div>
+      <div id="nutritionTableContainer">
+        <table id="nutritionTable"></table>
+      </div>
+    </section>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+
+  <script src="src/api-real.js"></script>
+  <script src="src/view.js"></script>
+
+  <script>
+    onepagescroll("div.recipePages")
+    window.SpoonacularViewHandler.init()
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,846 @@
+Muscle_ID,Equipment_ID,Name,ID,Exercise_Type_ID
+1,36,ab crunch machine,1,1
+1,1,ab roller,2,2
+1,16,advanced kettlebell windmill,3,1
+1,,air bike,4,3
+14,,all fours quad stretch,5,1
+4,3,alternate hammer curl,6,1
+1,,alternate heel touchers,7,2
+4,3,alternate incline dumbbell curl,8,1
+14,,alternate leg diagonal bound,9,1
+15,36,alternating cable shoulder press,10,1
+15,,alternating deltoid raise,11,1
+6,,alternating floor press,12,1
+9,,alternating hang clean,13,1
+15,16,alternating kettlebell press,14,1
+12,16,alternating kettlebell row,15,1
+12,,alternating renegade row,16,1
+5,,ankle circles,17,2
+8,,ankle on the knee,18,2
+5,,anterior tibialis-smr,19,1
+15,,anti-gravity press,20,1
+15,,arm circles,21,2
+15,7,arnold dumbbell press,22,1
+6,,around the worlds,23,1
+11,31,atlas stone trainer,24,1
+11,31,atlas stones,25,1
+11,2,axle deadlift,26,1
+15,8,back flyes - with bands,27,1
+14,,backward drag,28,1
+15,19,backward medicine ball throw,29,1
+5,,balance board,30,2
+9,,ball leg curl,31,1
+10,8,band assisted pull-up,32,1
+9,8,band good morning,33,1
+9,8,band good morning (pull through),34,1
+3,8,band hip adductions,35,1
+15,8,band pull apart,36,1
+17,8,band skull crusher,37,1
+1,3,barbell ab rollout,38,1
+1,3,barbell ab rollout - on knees,39,1
+6,3,barbell bench press - medium grip,40,1
+4,3,barbell curl,41,1
+4,3,barbell curls lying against an incline,42,1
+11,3,barbell deadlift,43,1
+14,3,barbell full squat,44,1
+8,3,barbell glute bridge,45,1
+6,3,barbell guillotine bench press,46,1
+14,3,barbell hack squat,47,1
+8,3,barbell hip thrust,48,1
+6,3,barbell incline bench press - medium grip,49,1
+15,3,barbell incline shoulder raise,50,1
+14,3,barbell lunge,51,1
+15,3,barbell rear delt row,52,1
+1,3,barbell rollout from bench,53,1
+5,3,barbell seated calf raise,54,1
+15,3,barbell shoulder press,55,1
+16,3,barbell shrug,56,1
+16,3,barbell shrug behind the back,57,1
+1,3,barbell side bend,58,1
+14,3,barbell side split squat,59,1
+14,3,barbell squat,60,1
+14,3,barbell squat to a bench,61,1
+14,3,barbell step ups,62,1
+14,3,barbell walking lunge,63,1
+15,,battling ropes,64,3
+14,,bear crawl sled drags,65,1
+6,,behind head 6 stretch,66,1
+17,40,bench dips,67,2
+14,40,bench jump,68,2
+17,40,bench press - powerlifting,69,1
+6,40,bench press - with bands,70,1
+17,40,bench press with chains,71,1
+14,40,bench sprint,72,1
+12,1,bent over barbell row,73,1
+15,7,bent over dumbbell rear delt raise with head on bench,74,1
+15,,bent over low-pulley side lateral,75,1
+12,,bent over one-arm long bar row,76,1
+12,,bent over two-arm long bar row,77,1
+12,,bent over two-dumbbell row,78,1
+12,,bent over two-dumbbell row with palms in,79,1
+1,,bent press,80,1
+10,1,bent-arm barbell pullover,81,1
+6,,bent-arm dumbbell pullover,82,1
+1,,bent-knee hip raise,83,2
+14,,bicycling,84,3
+14,,bicycling stationary,85,3
+17,,board press,86,2
+17,,body tricep press,87,2
+17,,body-up,88,2
+6,,bodyweight flyes,89,2
+12,,bodyweight mid row,90,2
+14,,bodyweight squat,91,2
+14,,bodyweight walking lunge,92,2
+1,4,bosu ball cable crunch with side bends,93,2
+1,,bottoms up,94,2
+7,,bottoms-up clean from the hang position,95,2
+9,,box jump (multiple response),96,2
+9,,box skip,97,2
+14,,box squat,98,2
+14,,box squat with bands,99,1
+14,,box squat with chains,100,1
+15,,bradford/rocky presses,101,1
+8,,butt lift (bridge),102,2
+1,,butt-ups,103,2
+6,,butterfly,104,2
+6,4,cable 6 press,105,1
+6,4,cable crossover,106,1
+1,4,cable crunch,107,1
+14,4,cable deadlifts,108,1
+4,4,cable hammer curls - rope attachment,109,1
+14,4,cable hip adduction,110,1
+17,4,cable incline 17 extension,111,1
+10,4,cable incline pushdown,112,1
+15,4,cable internal rotation,113,1
+6,4,cable iron cross,114,1
+1,4,cable judo flip,115,1
+17,4,cable lying 17 extension,116,1
+17,4,cable one arm tricep extension,117,1
+4,4,cable preacher curl,118,1
+15,4,cable rear delt fly,119,1
+1,4,cable reverse crunch,120,1
+17,4,cable rope overhead 17 extension,121,1
+15,4,cable rope rear-delt rows,122,1
+1,4,cable russian twists,123,1
+1,4,cable seated crunch,124,1
+15,4,cable seated lateral raise,125,1
+15,4,cable shoulder press,126,1
+16,4,cable shrugs,127,1
+1,4,cable tuck reverse crunch,128,1
+7,4,cable wrist curl,129,1
+5,,calf press,130,1
+5,36,calf press on the leg press machine,131,1
+5,,calf raise on a dumbbell,132,1
+5,,calf raises - with bands,133,1
+5,,calf stretch elbows against wall,134,2
+5,,calf stretch hands against wall,135,2
+16,36,calf-machine shoulder shrug,136,2
+14,,car deadlift,137,1
+15,,car drivers,138,1
+3,,carioca quick step,139,3
+11,,cat stretch,140,2
+10,,catch and overhead throw,141,1
+17,5,chain handle extension,142,1
+6,5,chain press,143,1
+10,,chair 11 stretch,144,1
+9,,chair leg extended stretch,145,2
+14,,chair squat,146,2
+15,,chair upper body stretch,147,2
+11,,child's pose,148,2
+13,,chin to 6 stretch,149,2
+10,,chin-up,150,2
+15,,circus bell,151,1
+9,,clean,152,1
+15,,clean and jerk,153,1
+15,,clean and press,154,1
+9,,clean deadlift,155,1
+14,,clean from blocks,156,1
+14,,clean pull,157,1
+16,,clean shrug,158,1
+6,,clock push-up,159,1
+17,3,close-grip barbell bench press,160,1
+17,7,close-grip dumbbell press,161,1
+4,41,close-grip ez bar curl,162,1
+4,41,close-grip ez-bar curl with band,163,1
+17,41,close-grip ez-bar press,164,1
+10,,close-grip front lat pulldown,165,1
+17,7,close-grip push-up off of a dumbbell,166,1
+4,3,close-grip standing barbell curl,167,1
+1,,cocoons,168,1
+14,,conan's wheel,169,1
+4,,concentration curls,170,1
+4,,cross body hammer curl,171,1
+6,,cross over - with bands,172,2
+1,,cross-body crunch,173,2
+11,,crossover reverse lunge,174,2
+15,,crucifix,175,1
+1,,crunch - hands overhead,176,1
+1,,crunch - legs on exercise ball,177,1
+1,,crunches,178,1
+15,,cuban press,179,1
+11,,dancer's stretch,180,2
+11,,deadlift with bands,181,1
+11,,deadlift with chains,182,1
+6,3,decline barbell bench press,183,1
+17,,decline close-grip bench to skull crusher,184,1
+1,,decline crunch,185,2
+17,7,decline dumbbell 17 extension,186,1
+6,7,decline dumbbell bench press,187,1
+6,7,decline dumbbell flyes,188,1
+17,41,decline ez bar 17 extension,189,1
+1,,decline oblique crunch,190,2
+6,,decline push-up,191,2
+1,,decline reverse crunch,192,2
+6,,decline smith press,193,1
+11,,deficit deadlift,194,1
+14,,depth jump leap,195,2
+17,36,dip machine,196,2
+17,,dips - 17 version,197,2
+6,,dips - 6 version,198,2
+5,,donkey calf raises,199,2
+9,,double kettlebell alternating hang clean,200,1
+15,,double kettlebell jerk,201,1
+15,,double kettlebell push press,202,1
+15,,double kettlebell snatch,203,1
+1,,double kettlebell windmill,204,1
+14,,double leg butt kick,205,2
+8,,downward facing balance,206,2
+4,,drag curl,207,1
+6,,drop push,208,2
+4,7,dumbbell alternate bicep curl,209,1
+6,7,dumbbell bench press,210,1
+6,7,dumbbell bench press with neutral grip,211,1
+4,7,dumbbell bicep curl,212,1
+9,7,dumbbell clean,213,1
+17,7,dumbbell floor press,214,1
+6,7,dumbbell flyes,215,1
+12,7,dumbbell incline row,216,1
+15,7,dumbbell incline shoulder raise,217,1
+14,7,dumbbell lunges,218,1
+15,7,dumbbell lying one-arm rear lateral raise,219,1
+7,7,dumbbell lying pronation,220,1
+15,7,dumbbell lying rear lateral raise,221,1
+7,7,dumbbell lying supination,222,1
+17,7,dumbbell one-arm 17 extension,223,1
+15,7,dumbbell one-arm shoulder press,224,1
+15,7,dumbbell one-arm upright row,225,1
+4,7,dumbbell prone incline curl,226,1
+15,7,dumbbell raise,227,1
+14,7,dumbbell rear lunge,228,1
+15,7,dumbbell scaption,229,1
+14,7,dumbbell seated box jump,230,1
+5,7,dumbbell seated one-leg calf raise,231,1
+15,7,dumbbell shoulder press,232,1
+16,7,dumbbell shrug,233,1
+1,7,dumbbell side bend,234,1
+14,7,dumbbell squat,235,1
+14,7,dumbbell squat to a bench,236,1
+14,7,dumbbell step ups,237,1
+17,7,dumbbell tricep extension -pronated grip,238,1
+6,,dynamic 6 stretch,239,2
+10,,dynamic back stretch,240,2
+15,,elbow circles,241,2
+1,,elbow to knee,242,2
+6,,elbows back,243,2
+14,,elevated back lunge,244,2
+10,4,elevated cable rows,245,1
+14,9,elliptical trainer,246,3
+1,,exercise ball crunch,247,2
+1,,exercise ball pull-in,248,2
+6,,extended range one-arm kettlebell floor press,249,1
+15,,external rotation,250,2
+15,8,external rotation with band,251,1
+15,4,external rotation with cable,252,1
+4,,ez-bar curl,253,1
+17,,ez-bar skullcrusher,254,1
+15,,face pull,255,1
+7,10,farmer's walk,256,1
+14,,fast skipping,257,3
+7,,finger curls,258,1
+6,4,flat bench cable flyes,259,1
+1,,flat bench leg pull-in,260,1
+1,,flat bench lying leg raise,261,1
+4,7,flexor incline dumbbell curls,262,1
+9,,floor glute-ham raise,263,1
+17,,floor press,264,1
+17,,floor press with chains,265,1
+8,,flutter kicks,266,2
+5,,foot-smr,267,2
+6,,forward drag with press,268,1
+14,,frankenstein squat,269,1
+14,,freehand jump squat,270,2
+14,,frog hops,271,2
+1,,frog sit-ups,272,2
+14,3,front barbell squat,273,1
+14,3,front barbell squat to a bench,274,1
+9,,front box jump,275,2
+15,4,front cable raise,276,1
+14,,front cone hops (or hurdle hops),277,3
+15,7,front dumbbell raise,278,1
+15,7,front incline dumbbell raise,279,1
+9,,front leg raises,280,2
+15,37,front plate raise,281,1
+6,,front raise and pullover,282,1
+14,,front squat (clean grip),283,1
+14,,front squats with two kettlebells,284,1
+15,7,front two-dumbbell raise,285,1
+10,,full range-of-motion lat pulldown,286,1
+10,,gironda sternum chins,287,1
+9,,glute ham raise,288,2
+8,,glute kickback,289,2
+14,,goblet squat,290,1
+9,,good morning,291,1
+9,,good morning off pins,292,1
+1,,gorilla chin/crunch,293,2
+3,,groin and back stretch,294,2
+3,,groiners,295,2
+14,,hack squat,296,1
+4,,hammer curls,297,1
+6,,hammer grip incline db bench press,298,1
+9,,hamstring stretch,299,2
+9,,hamstring-smr,300,1
+15,,handstand push-ups,301,2
+14,,hang clean,302,1
+14,,hang clean - below the knees,303,1
+9,,hang snatch,304,1
+9,,hang snatch - below knees,305,1
+9,,hanging bar good morning,306,1
+1,,hanging leg raise,307,2
+1,,hanging pike,308,2
+14,,heaving snatch balance,309,1
+6,,heavy bag thrust,310,1
+4,4,high cable curls,311,1
+2,,hip circles (prone),312,2
+8,,hip extension with bands,313,1
+14,8,hip flexion with band,314,1
+8,8,hip lift with band,315,1
+11,,hug a ball,316,1
+11,,hug knees to 6,317,2
+9,,hurdle hops,318,3
+11,,hyperextensions (back extensions),319,2
+11,,hyperextensions with no hyperextension bench,320,2
+2,,iliotibial tract-smr,321,2
+17,3,incline barbell 17 extension,322,1
+12,,incline bench pull,323,1
+6,4,incline cable 6 press,324,1
+6,4,incline cable flye,325,1
+6,7,incline dumbbell bench with palms facing in,326,1
+4,7,incline dumbbell curl,327,1
+6,7,incline dumbbell flyes,328,1
+6,7,incline dumbbell flyes - with a twist,329,1
+6,7,incline dumbbell press,330,1
+4,,incline hammer curls,331,1
+4,,incline inner 4 curl,332,1
+6,,incline push-up,333,2
+17,,incline push-up close-grip,334,2
+6,,incline push-up depth jump,335,2
+6,,incline push-up medium,336,2
+6,,incline push-up reverse grip,337,2
+6,,incline push-up wide,338,2
+9,,intermediate groin stretch,339,2
+14,,intermediate hip flexor and quad stretch,340,2
+15,8,internal rotation with band,341,1
+12,,inverted row,342,2
+12,,inverted row with s16,343,2
+15,,iron cross,344,2
+14,,iron crosses (stretch),345,2
+13,,isometric 13 exercise - front and back,346,2
+13,,isometric 13 exercise - sides,347,2
+6,,isometric 6 squeezes,348,2
+6,,isometric wipers,349,2
+2,,it band and glute stretch,350,2
+1,,jackknife sit-up,351,2
+1,,janda sit-up,352,2
+14,,jefferson squats,353,2
+15,,jerk balance,354,2
+14,,jerk dip squat,355,2
+17,,jm press,356,2
+14,33,jogging-treadmill,357,3
+11,15,keg load,358,1
+15,16,kettlebell arnold press,359,1
+9,16,kettlebell dead clean,360,1
+1,16,kettlebell figure 8,361,1
+9,16,kettlebell hang clean,362,1
+9,16,kettlebell one-legged deadlift,363,1
+1,16,kettlebell pass between the legs,364,1
+15,16,kettlebell pirate ships,365,1
+14,16,kettlebell pistol squat,366,1
+15,16,kettlebell seated press,367,1
+15,16,kettlebell seesaw press,368,1
+16,16,kettlebell sumo high pull,369,1
+15,16,kettlebell thruster,370,1
+15,16,kettlebell turkish get-up (lunge style),371,1
+1,16,kettlebell windmill,372,1
+10,,kipping muscle up,373,2
+8,,knee across the body,374,2
+5,,knee circles,375,2
+9,,knee tuck jump,376,2
+1,,knee/hip raise on parallel bars,377,2
+15,,kneeling arm drill,378,2
+17,4,kneeling cable 17 extension,379,1
+1,4,kneeling cable crunch with alternating oblique twists,380,1
+7,,kneeling forearm stretch,381,2
+10,,kneeling high pulley row,382,1
+14,,kneeling hip flexor,383,2
+8,,kneeling jump squat,384,2
+10,,kneeling single-arm high pulley row,385,1
+8,,kneeling squat,386,2
+1,,landmine 180's,387,1
+15,,landmine linear jammer,388,1
+3,,lateral bound,389,1
+3,,lateral box jump,390,2
+3,,lateral cone hops,391,2
+15,,lateral raise - with bands,392,1
+10,,latissimus dorsi-smr,393,1
+14,,leg extensions,394,1
+8,,leg lift,395,2
+14,,leg press,396,1
+1,,leg pull-in,397,2
+6,,leg-over floor press,398,1
+9,,leg-up hamstring stretch,399,2
+6,,leverage 6 press,400,1
+14,,leverage deadlift,401,1
+6,,leverage decline 6 press,402,1
+12,,leverage high row,403,1
+6,,leverage incline 6 press,404,1
+10,,leverage iso row,405,1
+15,,leverage shoulder press,406,1
+16,,leverage shrug,407,1
+9,,linear 3-part start technique,408,1
+9,,linear acceleration wall drill,409,1
+14,,linear depth jump,410,2
+15,18,log lift,411,1
+10,,london bridges,412,2
+14,,looking at ceiling,413,2
+17,4,low cable 17 extension,414,1
+6,4,low cable crossover,415,1
+15,,low pulley row to 13,416,1
+9,,lunge pass through,417,2
+14,,lunge sprint,418,3
+17,,lying 17 press,419,1
+3,,lying bent leg groin,420,1
+4,4,lying cable curl,421,1
+12,3,lying cambered barbell row,422,1
+4,,lying close-grip bar curl on high pulley,423,1
+17,3,lying close-grip barbell 17 extension behind the head,424,1
+17,3,lying close-grip barbell 17 press to chin,425,1
+2,,lying crossover,426,1
+17,7,lying dumbbell tricep extension,427,1
+13,37,lying face down plate 13 resistance,428,1
+13,37,lying face up plate 13 resistance,429,1
+8,,lying glute,430,1
+9,,lying hamstring,431,1
+4,3,lying high bench barbell curl,432,1
+9,,lying leg curls,433,1
+14,36,lying machine squat,434,1
+15,,lying one-arm lateral raise,435,1
+14,,lying prone 14,436,1
+15,,lying rear delt raise,437,1
+4,7,lying supine dumbbell curl,438,1
+12,,lying t-bar row,439,1
+17,36,machine 17 extension,440,1
+6,36,machine bench press,441,1
+4,36,machine bicep curl,442,1
+4,36,machine preacher curls,443,1
+15,36,machine shoulder (military) press,444,1
+6,19,medicine ball 6 pass,445,2
+1,19,medicine ball full twist,446,2
+15,19,medicine ball scoop throw,447,2
+12,,mixed grip chin,448,2
+2,,monster walk,449,2
+14,,mountain climbers,450,2
+9,,moving claw series,451,2
+9,,muscle snatch,452,1
+10,,muscle up,453,2
+14,,narrow stance hack squats,454,1
+14,,narrow stance leg press,455,1
+14,,narrow stance squats,456,1
+9,,natural glute ham raise,457,1
+1,,oblique crunches,458,2
+1,,oblique crunches - on the floor,459,2
+14,,olympic squat,460,1
+14,,on your side quad stretch,461,2
+14,,on-your-back quad stretch,462,2
+10,,one arm against wall,463,2
+12,,one arm chin-up,464,2
+6,7,one arm dumbbell bench press,465,1
+4,7,one arm dumbbell preacher curl,466,1
+17,,one arm floor press,467,1
+10,,one arm lat pulldown,468,1
+17,7,one arm pronated dumbbell 17 extension,469,1
+17,7,one arm supinated dumbbell 17 extension,470,1
+14,,one half locust,471,1
+10,,one handed hang,472,2
+8,,one knee to 6,473,2
+14,3,one leg barbell squat,474,1
+12,7,one-arm dumbbell row,475,1
+6,7,one-arm flat bench dumbbell flye,476,1
+1,4,one-arm high-pulley cable side bends,477,1
+15,,one-arm incline lateral raise,478,1
+9,16,one-arm kettlebell clean,479,1
+15,16,one-arm kettlebell clean and jerk,480,1
+6,16,one-arm kettlebell floor press,481,1
+15,16,one-arm kettlebell jerk,482,1
+15,16,one-arm kettlebell military press to the side,483,1
+15,16,one-arm kettlebell para press,484,1
+15,16,one-arm kettlebell push press,485,1
+12,16,one-arm kettlebell row,486,1
+15,16,one-arm kettlebell snatch,487,1
+15,16,one-arm kettlebell split jerk,488,1
+15,16,one-arm kettlebell split snatch,489,1
+9,16,one-arm kettlebell swings,490,1
+12,,one-arm long bar row,491,1
+1,19,one-arm medicine ball slam,492,2
+9,16,one-arm open palm kettlebell clean,493,1
+14,16,one-arm overhead kettlebell squats,494,1
+14,,one-arm side deadlift,495,1
+15,,one-arm side laterals,496,2
+8,4,one-legged cable kickback,497,1
+9,16,open palm kettlebell clean,498,1
+1,,otis-up,499,2
+17,,overhead 17,500,1
+4,4,overhead cable curl,501,1
+10,,overhead lat,502,1
+10,,overhead slam,503,1
+14,,overhead squat,504,1
+1,,overhead stretch,505,1
+1,,pallof press with rotation,506,1
+7,7,palms-down dumbbell wrist curl over a bench,507,1
+7,,palms-down wrist curl over a bench,508,1
+7,3,palms-up barbell wrist curl over a bench,509,1
+7,7,palms-up dumbbell wrist curl over a bench,510,1
+17,,parallel bar dip,511,2
+11,,pelvic tilt into bridge,512,2
+5,,peroneals stretch,513,2
+5,,peroneals-smr,514,2
+8,,physioball hip bridge,515,2
+17,,pin presses,516,1
+8,,piriformis-smr,517,1
+1,,plank,518,2
+1,,plank with twist,519,2
+7,37,plate pinch,520,1
+1,37,plate twist,521,1
+9,,platform hamstring slides,522,1
+14,7,plie dumbbell squat,523,1
+6,16,plyo kettlebell pushups,524,1
+6,,plyo push-up,525,1
+5,,posterior tibialis stretch,526,1
+9,,power clean,527,1
+9,,power clean from blocks,528,1
+14,,power jerk,529,1
+15,,power partials,530,1
+9,,power snatch,531,1
+14,,power snatch from blocks,532,1
+9,,power stairs,533,1
+4,,preacher curl,534,1
+4,7,preacher hammer dumbbell curl,535,1
+1,,press sit-up,536,2
+9,,prone manual hamstring,537,2
+9,,prowler sprint,538,3
+8,,pull through,539,2
+10,,pullups,540,2
+15,,push press,541,2
+15,,push press - behind the 13,542,2
+6,,push up to side plank,543,2
+6,,push-up wide,544,2
+17,,push-ups - close 17 position,545,2
+6,,push-ups with feet elevated,546,2
+6,,push-ups with feet on an exercise ball,547,2
+6,,pushups,548,2
+6,,pushups (close and wide hand positions),549,2
+11,,pyramid,550,2
+14,,quad stretch,551,2
+14,,quick leap,552,2
+15,,rack delivery,553,1
+11,,rack pull with bands,554,1
+11,,rack pulls,555,1
+14,,rear leg raises,556,1
+14,,recumbent bike,557,3
+15,,return push from stance,558,1
+17,,reverse 17 bench press,559,1
+17,8,reverse band bench press,560,1
+14,8,reverse band box squat,561,1
+11,8,reverse band deadlift,562,1
+14,8,reverse band power squat,563,1
+9,8,reverse band sumo deadlift,564,1
+4,3,reverse barbell curl,565,1
+4,3,reverse barbell preacher curls,566,1
+4,4,reverse cable curl,567,1
+1,,reverse crunch,568,2
+15,,reverse flyes,569,1
+15,,reverse flyes with external rotation,570,1
+17,,reverse grip 17 pushdown,571,1
+12,,reverse grip bent-over rows,572,2
+9,,reverse hyperextension,573,
+15,36,reverse machine flyes,574,1
+4,37,reverse plate curls,575,1
+12,,rhomboids-smr,576,1
+7,,rickshaw carry,577,1
+14,,rickshaw deadlift,578,1
+17,,ring dips,579,2
+14,,rocket jump,580,1
+5,,rocking standing calf raise,581,2
+10,,rocky pull-ups/pulldowns,582,2
+9,,romanian deadlift,583,1
+9,,romanian deadlift from deficit,584,1
+10,25,rope climb,585,2
+1,25,rope crunch,586,2
+14,25,rope jumping,587,2
+10,25,rope straight-arm pulldown,588,2
+15,,round the world shoulder stretch,589,2
+14,,rowing stationary,590,3
+9,,runner's stretch,591,2
+14,33,running treadmill,592,3
+1,,russian twist,593,2
+14,,sandbag load,594,2
+16,23,scapular pull-up,595,2
+1,,scissor kick,596,2
+14,,scissors jump,597,2
+17,,seated 17 press,598,1
+4,,seated 4,599,1
+9,8,seated band hamstring curl,600,1
+15,3,seated barbell military press,601,1
+1,3,seated barbell twist,602,1
+17,7,seated bent-over one-arm dumbbell 17 extension,603,1
+15,,seated bent-over rear delt raise,604,1
+17,7,seated bent-over two-arm dumbbell 17 extension,605,1
+12,4,seated cable rows,606,1
+15,4,seated cable shoulder press,607,1
+5,,seated calf raise,608,2
+5,,seated calf stretch,609,2
+4,3,seated close-grip concentration barbell curl,610,1
+4,7,seated dumbbell curl,611,1
+4,7,seated dumbbell inner 4 curl,612,1
+7,7,seated dumbbell palms-down wrist curl,613,1
+7,7,seated dumbbell palms-up wrist curl,614,1
+15,7,seated dumbbell press,615,1
+1,,seated flat bench leg pull-in,616,2
+9,,seated floor hamstring stretch,617,2
+15,,seated front deltoid,618,1
+8,,seated glute,619,1
+11,,seated good mornings,620,1
+9,,seated hamstring,621,1
+9,,seated hamstring and calf stretch,622,2
+13,,seated head harness 13 resistance,623,1
+9,,seated leg curl,624,1
+1,,seated leg tucks,625,1
+12,4,seated one-arm cable pulley rows,626,1
+7,7,seated one-arm dumbbell palms-down wrist curl,627,1
+7,7,seated one-arm dumbbell palms-up wrist curl,628,1
+1,,seated overhead stretch,629,2
+7,3,seated palm-up barbell wrist curl,630,1
+7,3,seated palms-down barbell wrist curl,631,1
+15,,seated side lateral raise,632,1
+7,,seated two-arm palms-up low-pulley wrist curl,633,1
+15,,see-saw press (alternating side press),634,1
+10,,shotgun row,635,1
+15,,shoulder circles,636,2
+15,,shoulder press - with bands,637,1
+15,,shoulder raise,638,2
+15,,shoulder stretch,639,2
+13,,side 13 stretch,640,2
+1,,side bridge,641,2
+14,,side hop-sprint,642,3
+1,,side jackknife,643,2
+15,,side lateral raise,644,2
+15,,side laterals to front raise,645,2
+3,,side leg raises,646,2
+3,,side lying groin stretch,647,2
+14,,side standing long jump,648,2
+14,,side to side box shuffle,649,2
+10,,side to side chins,650,2
+15,,side wrist pull,651,2
+10,,side-lying floor stretch,652,2
+15,7,single dumbbell raise,653,1
+14,,single leg butt kick,654,2
+8,,single leg glute bridge,655,2
+14,,single leg push-off,656,2
+6,4,single-arm cable crossover,657,1
+15,,single-arm linear jammer,658,1
+6,,single-arm push-up,659,2
+14,,single-cone sprint drill,660,3
+14,,single-leg high box squat,661,2
+14,,single-leg hop progression,662,2
+14,,single-leg lateral hop,663,2
+14,,single-leg leg extension,664,2
+14,,single-leg stride jump,665,2
+14,,sit squats,666,2
+1,,sit-up,667,2
+14,,skating,668,3
+14,,sled drag - harness,669,3
+17,,sled overhead 17 extension,670,3
+15,,sled overhead backward walk,671,3
+14,,sled push,672,3
+15,,sled reverse flye,673,3
+12,,sled row,674,3
+1,,sledgehammer swings,675,3
+15,,smith incline shoulder raise,676,1
+16,36,smith machine behind the back shrug,677,1
+6,36,smith machine bench press,678,1
+12,36,smith machine bent over row,679,1
+5,36,smith machine calf raise,680,1
+17,36,smith machine close-grip bench press,681,1
+6,36,smith machine decline press,682,1
+9,36,smith machine hang power clean,683,1
+1,36,smith machine hip raise,684,1
+6,36,smith machine incline bench press,685,1
+14,36,smith machine leg press,686,1
+15,36,smith machine one-arm upright row,687,1
+15,36,smith machine overhead shoulder press,688,1
+14,36,smith machine pistol squat,689,1
+5,36,smith machine reverse calf raises,690,1
+16,36,smith machine shrug,691,1
+14,36,smith machine squat,692,1
+9,36,smith machine stiff-legged deadlift,693,1
+16,36,smith machine upright row,694,1
+14,36,smith single-leg split squat,695,1
+14,,snatch,696,1
+14,,snatch balance,697,1
+9,,snatch deadlift,698,1
+14,,snatch from blocks,699,1
+9,,snatch pull,700,1
+16,,snatch shrug,701,1
+17,8,speed band overhead 17,702,1
+17,8,speed band pushdown,703,1
+14,,speed box squat,704,1
+14,,speed squats,705,2
+1,,spell caster,706,1
+1,,spider crawl,707,2
+4,,spider curl,708,2
+12,,spinal stretch,709,2
+14,,split clean,710,1
+14,,split jerk,711,1
+14,,split jump,712,1
+9,,split snatch,713,1
+14,,split squat with dumbbells,714,1
+9,,split squats,715,1
+14,,squat jerk,716,1
+14,,squat with bands,717,1
+14,,squat with chains,718,1
+14,37,squat with plate movers,719,1
+14,,squats - with bands,720,1
+14,,stairmaster,721,3
+4,4,standing 4 cable curl,722,1
+4,,standing 4 stretch,723,1
+15,7,standing alternating dumbbell press,724,1
+5,3,standing barbell calf raise,725,1
+15,3,standing barbell press behind 13,726,1
+17,7,standing bent-over one-arm dumbbell 17 extension,727,1
+17,7,standing bent-over two-arm dumbbell 17 extension,728,1
+15,,standing bradford press,729,1
+6,4,standing cable 6 press,730,1
+1,4,standing cable lift,731,1
+1,4,standing cable wood chop,732,1
+5,,standing calf raises,733,2
+4,,standing concentration curl,734,1
+17,7,standing dumbbell 17 extension,735,1
+5,7,standing dumbbell calf raise,736,1
+15,7,standing dumbbell press,737,1
+4,7,standing dumbbell reverse curl,738,1
+15,7,standing dumbbell straight-arm front delt raise above head,739,1
+16,7,standing dumbbell upright row,740,1
+14,,standing elevated quad stretch,741,1
+15,3,standing front barbell raise over head,742,1
+5,,standing gastrocnemius calf stretch,743,2
+9,,standing hamstring and calf stretch,744,2
+2,,standing hip circles,745,2
+14,,standing hip flexors,746,2
+4,,standing inner-4 curl,747,1
+1,,standing lateral stretch,748,2
+9,,standing leg curl,749,1
+14,,standing long jump,750,2
+15,,standing low-pulley deltoid raise,751,1
+17,,standing low-pulley one-arm 17 extension,752,1
+15,,standing military press,753,1
+7,37,standing olympic plate hand squeeze,754,1
+4,4,standing one-arm cable curl,755,1
+17,7,standing one-arm dumbbell 17 extension,756,1
+4,7,standing one-arm dumbbell curl over incline bench,757,1
+17,3,standing overhead barbell 17 extension,758,1
+15,7,standing palm-in one-arm dumbbell press,759,1
+15,7,standing palms-in dumbbell press,760,1
+7,3,standing palms-up barbell behind the back wrist curl,761,1
+11,,standing pelvic tilt,762,2
+1,25,standing rope crunch,763,1
+5,,standing soleus and achilles stretch,764,2
+9,,standing toe touches,765,2
+17,,standing towel 17 extension,766,1
+15,,standing two-arm overhead throw,767,1
+14,,star jump,768,2
+14,,step mill,769,2
+8,,step-up with knee raise,770,2
+11,3,stiff leg barbell good morning,771,1
+9,3,stiff-legged barbell deadlift,772,1
+9,7,stiff-legged dumbbell deadlift,773,1
+1,,stomach vacuum,774,2
+12,,straight bar bench mid rows,775,1
+15,,straight raises on incline bench,776,1
+6,7,straight-arm dumbbell pullover,777,1
+10,,straight-arm pulldown,778,1
+14,,stride jump crossover,779,2
+9,,sumo deadlift,780,1
+9,,sumo deadlift with bands,781,1
+9,,sumo deadlift with chains,782,1
+11,,superman,783,2
+17,,supine 6 throw,784,1
+1,,supine one-arm overhead throw,785,1
+6,,suspended push-up,786,2
+1,,suspended reverse crunch,787,2
+12,,suspended row,788,1
+14,,suspended split squat,789,1
+12,,t-bar row with handle,790,1
+17,,tate press,791,1
+9,,the straddle,792,1
+2,,thigh abductor,793,2
+14,,tire flip,794,2
+1,,toe touchers,795,2
+1,,torso rotation,796,2
+14,,trail running/walking,797,3
+14,,trap bar deadlift,798,1
+17,7,tricep dumbbell kickback,799,1
+17,,tricep side stretch,800,2
+1,,tuck crunch,801,2
+4,7,two-arm dumbbell preacher curl,802,1
+15,16,two-arm kettlebell clean,803,1
+15,16,two-arm kettlebell jerk,804,1
+15,16,two-arm kettlebell military press,805,1
+12,16,two-arm kettlebell row,806,1
+10,4,underhand cable pulldowns,807,1
+12,,upper back stretch,808,2
+9,,upper back-leg grab,809,2
+15,3,upright barbell row,810,1
+16,4,upright cable row,811,1
+16,,upright row - with bands,812,1
+15,,upward stretch,813,2
+10,,v-bar pulldown,814,1
+10,,v-bar pullup,815,1
+9,,vertical swing,816,1
+14,33,walking treadmill,817,3
+11,,weighted ball hyperextension,818,2
+1,,weighted ball side bend,819,2
+17,,weighted bench dip,820,2
+1,,weighted crunches,821,2
+14,,weighted jump squat,822,2
+10,,weighted pull ups,823,2
+14,,weighted sissy squat,824,2
+1,,weighted sit-ups - with bands,825,2
+14,,weighted squat,826,1
+14,3,wide stance barbell squat,827,1
+9,,wide stance stiff legs,828,1
+6,3,wide-grip barbell bench press,829,11
+6,3,wide-grip decline barbell bench press,830,1
+6,3,wide-grip decline barbell pullover,831,1
+10,,wide-grip lat pulldown,832,1
+10,,wide-grip pulldown behind the 13,833,1
+10,23,wide-grip rear pull-up,834,1
+4,3,wide-grip standing barbell curl,835,1
+1,,wind sprints,836,3
+2,,windmills,837,2
+9,,world's greatest stretch,838,2
+7,,wrist circles,839,1
+7,,wrist roller,840,1
+7,,wrist rotations with straight bar,841,1
+14,39,yoke walk,842,1
+14,,zercher squats,843,1
+4,,zottman curl,844,1
+4,,zottman preacher curl,845,1
