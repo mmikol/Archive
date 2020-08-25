@@ -1,0 +1,51 @@
+
+
+CMSI 387 Operating Systems
+Results for Homework #2 Evaluation
+   Jeremy, Miliano, and Andrey
+==================================
+
+Question 1 mutex reversing:          5/ 5 points
+
+Question 2 auditing code change:     5/ 5 points
+
+Question 3 test program:            20/20 points
+   It would have been nice to have this be a java program in your repo so
+      I didn't have to retype it, but I compared it with my code and it
+      looks OK, so I'm assuming the errors I got are from my typing...
+
+Question 4 notifyall() addition:    10/10 points
+   Same here as for question 3....  :)
+
+Question 5a 2-phase locking:         5/ 5 points
+
+Question 5b short read locks:        4/ 5 points
+   No, it's not possible.  With read committed isolation, the writes will
+      have exlusive locks, so T1 will have exclusive write access for the
+      duration of the transaction.  Since write locks are exclusive, in this
+      case it's the same outcome as with two-phase locking.
+
+Question 5c snapshot isolation:      5/ 5 points
+
+Question 6 virtual address xlate:    5/ 5 points
+
+Question 7 calc. explanation:        5/ 5 points
+
+Question 8 loop 4096 analysis:      20/20 points
+   Again, having the code in your repo would be helpful.  Good write-up
+      of the results!
+
+Question 9 fork() tree:             15/15 points
+   Nice job on this one, although you are showing some extra processes,
+      I think.  PID:1 is most likely your terminal session which is not
+      actually part of the fork() process.  Thus, 1090 isn't part of it,
+      either.  The rest looks OK though.
+
+
+Total 99 out of 100 = 99.00% which is an A-plus
+
+Comments:
+---------
+
+Very nice work on this assignment!
+

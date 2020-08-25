@@ -1,0 +1,15 @@
+               .data
+YourStuff:     .word    1,2,3,4
+MyStuff:       .word    5,6,7,8
+
+               .text
+               lui      $at,4097
+               or       $t5,$at,$0
+               sw       $t5,MyStuff
+               nor      $at,$t5,$t5
+               addi     $t0,$at,1
+               add      $0, $0, $s1
+               addi     $at,$0,100
+               sub      $t1,$t0,$at
+               div      $t0,$t5
+               mfhi     $s1
