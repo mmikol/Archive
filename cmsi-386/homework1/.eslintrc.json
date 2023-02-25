@@ -1,0 +1,27 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": ["eslint:recommended"],
+  "parserOptions": {
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "rules": {
+    "no-unexpected-multiline": 0,
+    "no-dupe-args": 1,
+    "no-dupe-class-members": 1,
+    "no-dupe-else-if": 1,
+    "no-dupe-keys": 1,
+    "no-duplicate-case": 1,
+    "no-extra-semi": 1,
+    "no-undef": 1,
+    "no-unused-labels": 1,
+    "no-unused-vars": 1,
+    "no-useless-catch": 1,
+    "no-duplicate-imports": 1,
+    "no-unreachable": 1
+  }
+}
